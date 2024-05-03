@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "478247667478",
+    "firebase_url": "https://quiz-de-an-default-rtdb.firebaseio.com",
+    "project_id": "quiz-de-an",
+    "storage_bucket": "quiz-de-an.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478247667478:android:b6b071b5e3189a3a8a3237",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZQ8GRWdsio8vcts87jham0yaduKj7yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478247667478:android:b6de8895563dd4478a3237",
+        "android_client_info": {
+          "package_name": "com.example.quizdean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZQ8GRWdsio8vcts87jham0yaduKj7yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
